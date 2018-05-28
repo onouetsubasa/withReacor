@@ -1,0 +1,34 @@
+PODS:
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - ReactorKit (1.1.0):
+    - RxSwift (>= 4.0.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+
+DEPENDENCIES:
+  - R.swift
+  - ReactorKit
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - R.swift
+    - R.swift.Library
+    - ReactorKit
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  ReactorKit: 26470a9eff5094fae909a30af0be7cd0cf8a182d
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+
+PODFILE CHECKSUM: 17de1658a697752c85b6c99661843195d165b06c
+
+COCOAPODS: 1.5.0
